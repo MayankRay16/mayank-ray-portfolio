@@ -7,8 +7,8 @@ export default function SiteNav() {
   return (
     <header className="site-nav">
       <a className="wordmark" href="/" target="_blank" rel="noreferrer">
-        <span className="wordmark-mark">J<span>.</span></span>
-        <span className="wordmark-name">JAYA KAUSHIKI</span>
+        <span className="wordmark-mark">M<span>.</span></span>
+        <span className="wordmark-name">MAYANK RAY</span>
       </a>
       <nav className="desktop-nav" aria-label="Primary navigation">
         {navItems.map((item) => <a key={item.href} href={item.href} target="_blank" rel="noreferrer">{item.label}</a>)}
