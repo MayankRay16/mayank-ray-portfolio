@@ -1,5 +1,5 @@
-export const portraitUrl = "/manus-storage/mayank-ray.jpeg";
-export const cvUrl = "/manus-storage/Mayank-Kumar-Ray-CV.docx";
+export const portraitUrl = "https://files.manuscdn.com/user_upload_by_module/session_file/310519663956878542/apzKlejSbGVpQckx.jpeg";
+export const cvUrl = "https://files.manuscdn.com/user_upload_by_module/session_file/310519663956878542/zNvPWLlfiSpGNZJs.docx";
 
 export const navItems = [
   { label: "About me", href: "/about" },
